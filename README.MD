@@ -1,0 +1,1 @@
+Here is my first AgenticRag finance project. The name of the project is FinRisk
