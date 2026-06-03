@@ -1,0 +1,26 @@
+# knowledge_base/basel3_guidelines.txt
+
+BASEL III CREDIT RISK GUIDELINES
+
+1. CAPITAL REQUIREMENTS
+Banks must hold a minimum Common Equity Tier 1 (CET1) ratio of 4.5% of 
+risk-weighted assets. The capital conservation buffer adds another 2.5%, 
+bringing the effective minimum to 7%.
+
+2. CREDIT RISK ASSESSMENT STANDARDS
+All corporate exposures must be assessed using either the Standardised 
+Approach or the Internal Ratings-Based (IRB) approach. IRB requires 
+estimating Probability of Default (PD), Loss Given Default (LGD), 
+and Exposure at Default (EAD).
+
+3. LEVERAGE RATIO
+Banks must maintain a minimum leverage ratio of 3%, calculated as Tier 1 
+capital divided by total exposure.
+
+4. COUNTERPARTY RISK
+For derivatives and securities financing, banks must calculate Credit 
+Valuation Adjustment (CVA) to account for counterparty default risk.
+
+5. STRESS TESTING
+All institutions with assets over €30 billion must conduct annual stress 
+tests simulating adverse macroeconomic scenarios.

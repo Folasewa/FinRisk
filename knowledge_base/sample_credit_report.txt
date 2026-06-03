@@ -1,0 +1,36 @@
+# knowledge_base/sample_credit_report.txt
+
+SAMPLE CORPORATE CREDIT REPORT - REFERENCE TEMPLATE
+
+COMPANY: Meridian Manufacturing GmbH
+DATE: January 2025
+ANALYST: Credit Risk Division
+
+EXECUTIVE SUMMARY
+Meridian Manufacturing presents moderate credit risk. Revenue has grown 
+steadily at 8% CAGR over 3 years, however debt-to-equity ratio of 2.1x 
+is above sector average of 1.4x. Recommend conditional approval with 
+enhanced monitoring.
+
+CREDIT SCORE: 64/100
+RATING: BBB
+
+KEY FINANCIAL METRICS
+- Revenue: €142M (FY2024)
+- EBITDA Margin: 14.2%
+- Net Debt: €89M
+- Interest Coverage Ratio: 3.2x
+- Current Ratio: 1.4x
+
+RISK FACTORS
+- High leverage relative to peers
+- Single customer concentration (top client = 31% of revenue)
+- Exposure to raw material price volatility
+
+MITIGATING FACTORS
+- Long-standing banking relationship (7 years)
+- Diversified geographic presence
+- Strong management track record
+
+RECOMMENDATION: CONDITIONAL APPROVE
+Approve credit facility of €20M subject to quarterly covenant monitoring.

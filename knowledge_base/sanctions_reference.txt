@@ -1,0 +1,27 @@
+# knowledge_base/sanctions_reference.txt
+
+SANCTIONS & HIGH-RISK JURISDICTION REFERENCE
+
+HIGH-RISK JURISDICTIONS (FATF Grey/Black List - 2025)
+The following countries are subject to enhanced monitoring:
+- Myanmar, North Korea, Iran, Syria
+- Russia (sectoral sanctions apply)
+- Belarus (enhanced restrictions)
+
+SECTOR-SPECIFIC SANCTIONS
+Energy sector: Restrictions apply to Russian energy companies and 
+entities providing goods/services to Russian energy projects.
+
+Defense sector: Arms embargo applies to multiple jurisdictions. 
+Dual-use goods require export license review.
+
+COMMON RED FLAGS FOR SANCTIONS EVASION
+- Use of shell companies in low-transparency jurisdictions
+- Rapid movement of funds through multiple accounts
+- Transactions inconsistent with business profile
+- Involvement of third-party intermediaries without clear purpose
+
+WATCHLIST SCREENING FREQUENCY
+- Onboarding: Full screening required
+- Ongoing: Automated daily screening against updated lists
+- Event-triggered: Re-screen on any material change in ownership

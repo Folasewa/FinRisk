@@ -1,0 +1,9 @@
+anthropic
+tavily-python
+chromadb
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
+numpy
+pandas

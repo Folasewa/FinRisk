@@ -1,0 +1,33 @@
+# knowledge_base/aml_policy.txt
+
+INTERNAL AML & KYC POLICY REFERENCE
+
+1. CUSTOMER DUE DILIGENCE (CDD)
+All corporate clients must undergo standard CDD including:
+- Verification of legal entity and registration documents
+- Identification of Ultimate Beneficial Owners (UBO) holding >25% stake
+- Assessment of business nature and expected transaction patterns
+
+2. ENHANCED DUE DILIGENCE (EDD)
+EDD is triggered when:
+- Client is from a FATF high-risk jurisdiction
+- PEP (Politically Exposed Person) involvement is detected
+- Transaction patterns are inconsistent with stated business purpose
+- Adverse media screening returns negative results
+
+3. POLITICALLY EXPOSED PERSONS (PEP)
+Any individual holding or having held a prominent public function within 
+the last 12 months is classified as PEP. This includes heads of state, 
+senior politicians, senior executives of state-owned enterprises, and 
+their immediate family members.
+
+4. SANCTIONS SCREENING
+All clients must be screened against:
+- UN Consolidated Sanctions List
+- EU Financial Sanctions List
+- OFAC SDN List (US)
+- UK HM Treasury Sanctions List
+
+5. SUSPICIOUS ACTIVITY REPORTING
+Any transaction or pattern that cannot be explained must be reported 
+via SAR (Suspicious Activity Report) within 24 hours of detection.
