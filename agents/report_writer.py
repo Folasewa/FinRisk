@@ -38,3 +38,14 @@ def write_report(data):
 
     Make the report exactly like something a bank's credit committee would review
     """
+
+    response = client.messages.create(model="claude-sonnet-4-20250514", max_tokens=2000, system=system_prompt, messages = [{"role": "user", "content": user_message}])
+    report_markdown = response.content[0].text
+
+    print(f"Report written. ({len(report_markdown)} characters)")
+    data["final_report"] = report_markdown
+    
+    return data
+
+def json_block(obj):
+    return json.dumps(obj, indent=2)
